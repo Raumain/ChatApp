@@ -1,0 +1,9 @@
+#message-container{
+    border: 1px black solid;
+    width: 500px;
+    height: auto;
+}
+#send-container{
+    position: absolute;
+    bottom: 10px;
+}
